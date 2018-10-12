@@ -1,0 +1,6 @@
+<!--all the string resources the app will use-->
+<resources>
+    <string name="app_name">Activity Lifecycle in Action</string>
+    <string name="current_lifecycle">Current Lifecycle: %s</string> <!--using %s for java formatting-->
+    <string name="past_lifecycle">Past Lifecycle: %s</string>
+</resources>
